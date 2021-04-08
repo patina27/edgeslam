@@ -19,7 +19,7 @@ Camera.width: 640
 Camera.height: 480
 
 # Camera frames per second 
-Camera.fps: 30.0
+Camera.fps: 15.0
 
 # stereo baseline times fx
 Camera.bf: 21.10917
